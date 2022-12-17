@@ -1,2 +1,2 @@
-### Yo, I'm Riksi😎
+### Yoo, welcome to my page
 🌱 I’m currently learning programming language
