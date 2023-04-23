@@ -1,2 +1,2 @@
 ### Yoo, welcome to my page
-🌱 I’m currently learning programming language
+🌱 I’m new in Coding !!!
