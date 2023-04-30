@@ -2,7 +2,7 @@
 
 ```💡Currently learning Java```
 
-### Github Stats
+### GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=riksiprnm&show_icons=true&count_private=true&theme=tokyonight)
 
 ### Top Languages
