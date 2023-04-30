@@ -1,4 +1,7 @@
 ### Yoo, welcome to my page
+
+![ollow](https://img.shields.io/github/followers/riksiprnm?style=social)
+
 🌱 currently doin' something
 
 ## Github Stats
@@ -6,3 +9,4 @@
 
 ## Top Languages
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riksiprnm&layout=compact&langs_count=10&theme=tokyonight)
+
