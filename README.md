@@ -1,7 +1,4 @@
 ## Yoo, welcome to my page
-### My name is Riksi
-
-![Follow](https://img.shields.io/github/followers/riksiprnm?style=social)
 
 🌱 Computer Science Student
 
