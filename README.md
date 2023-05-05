@@ -2,8 +2,11 @@
 
 ```💡Currently learning Java```
 
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=riksiprnm.riksiprnm)
+
 ### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=riksiprnm&show_icons=true&count_private=true&theme=tokyonight)
+![riksiprnm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riksiprnm&count_private=true&show_icons=true&theme=tokyonight)
+
 
 ### Top Languages
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riksiprnm&layout=compact&langs_count=10&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riksiprnm&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
