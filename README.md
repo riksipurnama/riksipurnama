@@ -1,11 +1,13 @@
 ## Yoo, welcome to my page
 
-```💡Currently learning Java```
-
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=riksiprnm.riksiprnm)
 
+```💡Currently learning Java```
+
+
+
 ### GitHub Stats
-![riksiprnm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riksiprnm&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riksiprnm&count_private=true&show_icons=true&theme=tokyonight)
 
 
 ### Top Languages
