@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=siwakasen&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=vt92i&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=siwakasen&theme=tokyonight" alt="GitHub Streak">
 </p>
 
 ## 🔥 Top Languages
