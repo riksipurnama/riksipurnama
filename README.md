@@ -8,5 +8,5 @@
 ## 🔥 Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwakasen&layout=compact&langs_count=10&theme=tokyonight" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwakasen&layout=compact&langs_count=10&theme=tokyonight" alt="Most Used Languages"> 
 </p>
